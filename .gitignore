@@ -1,0 +1,68 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Distribution / packaging
+.Python
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Environments
+.env
+.venv
+
+# mypy
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+
+results
