@@ -16,13 +16,12 @@ This project provides a series of Jupyter notebooks for **medical students** lea
 
 | # | Notebook | Level | Duration | Tags |
 |---|----------|-------|----------|------|
-| 1 | [Python Basics (Compact)](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/python_basics_compact.ipynb) | Beginner | 30–60 min | `python`, `pandas`, `visualization`, `compact` |
-| 2 | [Medical Data Science Fundamentals](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/medical_data_science_fundamentals.ipynb) | Beginner | 90–180+ min | `python`, `pandas`, `data-cleaning`, `logistic-regression` |
-| 3 | [Heart Disease Prediction Analysis](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/heart_disease_prediction_analysis.ipynb) | Intermediate | 60–120 min | `ml-classification`, `visualization`, `sklearn`, `xgboost` |
-| 4 | [NLP and Transformers](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/dm_nlp.ipynb) | Intermediate | 45–90 min | `nlp`, `spacy`, `transformers`, `ner`, `qa` |
-| 5 | [Introduction to LLMs in Healthcare](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/llms_in_healthcare.ipynb) | Advanced | 60–120 min | `llm`, `biogpt`, `prompt-engineering`, `rag` |
-| 6 | [Agentic AI in Medicine](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/agentic_ai_medical.ipynb) | Mixed | 30–60 min | `agentic-ai`, `agents`, `rag`, `multi-agent`, `safety`, `compact` |
-| 7 | [LLM Agents for Healthcare Admin](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/llm_agents_healthcare_agents.ipynb) | Advanced | 60–120+ min | `agents`, `biogpt`, `biobert`, `routing`, `guardrails` |
+| 1 | [Medical Data Science Fundamentals](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/medical_data_science_fundamentals.ipynb) | Beginner | 90–180+ min | `python`, `pandas`, `data-cleaning`, `logistic-regression` |
+| 2 | [Heart Disease Prediction Analysis](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/heart_disease_prediction_analysis.ipynb) | Intermediate | 60–120 min | `ml-classification`, `visualization`, `sklearn`, `xgboost` |
+| 3 | [NLP and Transformers](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/dm_nlp.ipynb) | Intermediate | 45–90 min | `nlp`, `spacy`, `transformers`, `ner`, `qa` |
+| 4 | [Introduction to LLMs in Healthcare](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/llms_in_healthcare.ipynb) | Advanced | 60–120 min | `llm`, `biogpt`, `prompt-engineering`, `rag` |
+| 5 | [Agentic AI in Medicine](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/agentic_ai_medical.ipynb) | Mixed | 30–60 min | `agentic-ai`, `agents`, `rag`, `multi-agent`, `safety`, `compact` |
+| 6 | [LLM Agents for Healthcare Admin](https://colab.research.google.com/github/MoLue/wft_digital_medicine/blob/main/llm_agents_healthcare_agents.ipynb) | Advanced | 60–120+ min | `agents`, `biogpt`, `biobert`, `routing`, `guardrails` |
 
 > **Note on duration:** The lower end is for experienced programmers; the upper end accounts for exploring exercises, experimenting, and reading background material. Take your time — there's no rush!
 
@@ -34,8 +33,8 @@ This project provides a series of Jupyter notebooks for **medical students** lea
 
 ### Compact vs. Full Notebooks
 
-- **Compact** (#1, #6): Shorter, focused introductions — great for getting started quickly
-- **Full** (#2, #3, #4, #5, #7): In-depth self-paced learning with more exercises and exploration
+- **Compact** (#5): Shorter, focused introduction — great for getting started quickly
+- **Full** (#1, #2, #3, #4, #6): In-depth self-paced learning with more exercises and exploration
 
 ## Data
 
